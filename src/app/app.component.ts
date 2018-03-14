@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  itemsToDrop = [
+    'test',
+    'test2',
+    'test3'
+  ]
 }
